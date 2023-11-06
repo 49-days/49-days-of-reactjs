@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "docs:dev": "vitepress dev react",
+    "docs:build": "vitepress build react",
+    "docs:preview": "vitepress preview react"
+  },
+  "dependencies": {
+    "markdown-it-mathjax3": "^4.3.2",
+    "vite-plugin-mdx": "^3.6.0",
+    "vitepress": "^1.0.0-rc.25",
+    "vue": "^3.3.7"
+  }
+}
