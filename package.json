@@ -5,9 +5,11 @@
     "docs:preview": "vitepress preview react"
   },
   "dependencies": {
+    "@stackblitz/sdk": "^1.9.0",
     "markdown-it-mathjax3": "^4.3.2",
     "vite-plugin-mdx": "^3.6.0",
     "vitepress": "^1.0.0-rc.25",
+    "vitepress-plugin-nprogress": "^0.0.4",
     "vue": "^3.3.7"
   }
 }

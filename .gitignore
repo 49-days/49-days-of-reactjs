@@ -9,4 +9,4 @@ gen
 
 node_modules
 
-.vitepress/cache
+/react/.vitepress/cache

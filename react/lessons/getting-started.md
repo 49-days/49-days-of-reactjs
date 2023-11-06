@@ -1,4 +1,4 @@
-# Chuẩn bị và bắt đầu
+# Ngày 01: Chuẩn bị và bắt đầu
 
 ::: info TDLR;
 Ở bài này chúng ta nói qua về cách tiếp cận, những thứ cần chuẩn bị để bắt đầu các bài học React trong chuỗi 48 ngày
@@ -7,7 +7,7 @@ tiếp theo.
 
 ## Giới thiệu về React
 
-[React](https://react.dev/) là một framework được phát triển vào cho ra mắt vào năm 2013 bởi
+[React](https://react.dev) là một framework được phát triển vào cho ra mắt vào năm 2013 bởi
 [Meta](https://about.meta.com) và cộng đồng lập trình viên yêu thích
 [OpenSource](https://en.wikipedia.org/wiki/Open_source), kể từ năm 2015 tới nay
 **React** được quan tâm và sử dụng rộng rãi hơn bởi cộng đồng lập trình viên.
@@ -24,18 +24,26 @@ Chuỗi bài 49 Ngày cùng React sẽ cùng với các bạn trong 49 bài họ
 
 * [React](https://react.dev/): Chúng ta sẽ đi sâu từng bước một vào React, các bạn sẽ hiểu được cách hoạt động của
   React, cách tối ưu hóa React, cách tối ưu hóa các Components, ...
-    * [React Hooks](https://reactjs.org/docs/hooks-intro.html): Chúng ta sẽ đi sâu vào các Hooks của React, các bạn sẽ
+
+  * [React Hooks](https://reactjs.org/docs/hooks-intro.html): Chúng ta sẽ đi sâu vào các Hooks của React, các bạn sẽ
       hiểu được cách sử dụng các Hooks, cách tạo ra các Hooks, ...
-    * [React Context](https://reactjs.org/docs/context.html): Chúng ta sẽ đi sâu vào Context của React, các bạn sẽ
+
+  * [React Context](https://reactjs.org/docs/context.html): Chúng ta sẽ đi sâu vào Context của React, các bạn sẽ
       hiểu được cách sử dụng Context, cách tạo ra Context, ...
-    * [React Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html): Chúng ta sẽ đi sâu vào vòng đời của
+
+  * [React Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html): Chúng ta sẽ đi sâu vào vòng đời của
       React, các bạn sẽ hiểu được cách sử dụng vòng đời của React.
+
     * [React Router](https://reactrouter.com/): Chúng ta sẽ đi sâu vào React Router, các bạn sẽ hiểu được cách sử dụng
       React Router.
 * [Redux ToolKit](https://redux.js.org/): Thư viện dùng để quản lý trạng thái phổ biến trong React.
+
 * [React Query](https://react-query.tanstack.com/): Thư viện dùng để làm việc với API.
+
     * [Axios](https://axios-http.com/): Thư viện dùng để làm việc với API.
+
 * [React Hook Form](https://react-hook-form.com/): Thư viện dùng để quản lý Form trong React.
+
 * [TailwindCSS](https://tailwindcss.com/): Thư viện CSS đơn giản và phổ biến hiện này.
 
 ## Chuẩn bị
@@ -80,5 +88,9 @@ Chuỗi bài 49 Ngày cùng React sẽ cùng với các bạn trong 49 bài họ
 * Nâng cao khả năng lập trình của bản thân, giúp các bạn tiếp cận nhanh hơn không chỉ với React và còn nhiều ngôn ngữ,
   framework khác nữa.
 
-
-
+## Tóm tắt bài viết
+- Tìm hiểu React là gì.
+- Hiểu rõ chuỗi bài học này sẽ học những gì.
+- Biết được những thứ cần chuẩn bị để bắt đầu học.
+- Chuẩn bị tinh thần học tập.
+- Kết quả đạt được những gì sau khi học xong chuỗi bài này.

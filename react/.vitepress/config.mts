@@ -19,10 +19,15 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Học về React',
+        text: 'Những ngày đầu tiên',
         items: [
           {text: 'Ngày 01: Chuẩn bị và bắt đầu', link: '/lessons/getting-started'},
           {text: 'Ngày 02: Cài đặt', link: '/lessons/installation'},
+        ]
+      },
+      {
+        text: 'Tổng hợp kiến thức',
+        items: [
         ]
       },
     ],
@@ -39,7 +44,7 @@ export default defineConfig({
       },
     },
     editLink: {
-      pattern: 'https://github.com/49-days/49-days-of-reactjs/:path',
+      pattern: 'https://github.com/49-days/49-days-of-reactjs/tree/main/react/:path',
       text: 'Edit this page on GitHub',
     },
 
@@ -63,10 +68,15 @@ export default defineConfig({
 
         sidebar: [
           {
-            text: 'Learn about React',
+            text: 'The first day',
             items: [
               {text: 'Day 01: Getting Started', link: '/lessons/getting-started'},
               {text: 'Day 02: Installation', link: '/lessons/installation'},
+            ]
+          },
+          {
+            text: 'Review',
+            items: [
             ]
           },
         ],
