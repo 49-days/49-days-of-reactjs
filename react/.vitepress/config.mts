@@ -23,11 +23,14 @@ export default defineConfig({
         items: [
           {text: 'Ngày 01: Chuẩn bị và bắt đầu', link: '/lessons/getting-started'},
           {text: 'Ngày 02: Cài đặt', link: '/lessons/installation'},
+          {text: 'Ngày 04: Giới thiệu RFlix', link: '/lessons/introduce-movies-app'},
         ]
       },
       {
         text: 'Tổng hợp kiến thức',
         items: [
+          {text: 'Tài nguyên', link: '/summarize/resources'},
+          {text: 'Các công cụ và ứng dụng', link: '/summarize/tools'},
         ]
       },
     ],
@@ -72,11 +75,14 @@ export default defineConfig({
             items: [
               {text: 'Day 01: Getting Started', link: '/lessons/getting-started'},
               {text: 'Day 02: Installation', link: '/lessons/installation'},
+              {text: 'Day 04: Introduce RFlix', link: '/lessons/introduce-movies-app'},
             ]
           },
           {
             text: 'Review',
             items: [
+              {text: 'Resources', link: '/summarize/resources'},
+              {text: 'Tools and Applications', link: '/summarize/tools'},
             ]
           },
         ],
