@@ -1,6 +1,6 @@
 # Các Hook trong React
 
-::: info TDLR;
+::: info TL;DR
 Trang này sẽ giúp các bạn hiểu được các Hook trong React, cách sử dụng các Hook, cách tạo ra các Hook, ...
 :::
 

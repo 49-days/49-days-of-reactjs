@@ -1,6 +1,6 @@
 # Ngày 02: Cài đặt
 
-::: info TDLR;
+::: info TL;DR
 Ở bài này chúng ta nói về cách cài đặt các công cụ và phần mềm cần thiết để học React.
 :::
 

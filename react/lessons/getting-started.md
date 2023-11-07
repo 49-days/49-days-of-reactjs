@@ -1,6 +1,6 @@
 # Ngày 01: Chuẩn bị và bắt đầu
 
-::: info TDLR;
+::: info TL;DR
 Ở bài này chúng ta nói qua về cách tiếp cận, những thứ cần chuẩn bị để bắt đầu các bài học React trong chuỗi 48 ngày
 tiếp theo.
 :::
