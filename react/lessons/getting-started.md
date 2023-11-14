@@ -12,8 +12,8 @@ tiếp theo.
 [OpenSource](https://en.wikipedia.org/wiki/Open_source), kể từ năm 2015 tới nay
 **React** được quan tâm và sử dụng rộng rãi hơn bởi cộng đồng lập trình viên.
 Nhu cầu tuyển dụng cho vị trí **React Developer** cũng tăng lên đáng kể.
-Với tinh thần chia sẻ và mong muốn giúp đỡ các bạn mới bắt đầu học **React** một cách dễ dàng hơn,
-chúng tôi đã tạo ra chuỗi bài học này.
+Với tinh thần chia sẻ và mong muốn giúp đỡ các bạn mới bắt đầu học **React** một cách dễ dàng hơn là lý do cho chúng tôi
+đã tạo ra chuỗi bài học này.
 
 ## Giới thiệu về chuỗi bài học
 
@@ -51,8 +51,8 @@ Chuỗi bài 49 Ngày cùng React sẽ cùng với các bạn trong 49 bài họ
     * Hoặc có thể là Sublime Text, Atom, Vim, Emacs, ...
 * Công cụ để quản lý các gói phụ thuộc của dự án các bạn có thể sử dụng [NPM](https://www.npmjs.com/) hoặc
   [Yarn](https://yarnpkg.com/), tùy vào sở thích của bạn.
-* Nếu các bạn có thêm kỹ năng lập trình, biết một ít về ngôn
-  ngữ [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS)
+* Nếu các bạn có thêm kỹ năng lập trình, biết một ít về các ngôn
+  ngữ như [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS)
   thì sẽ tốt hơn rất nhiều.
 
 ### Thông tin cần biết và tinh thần học tập
