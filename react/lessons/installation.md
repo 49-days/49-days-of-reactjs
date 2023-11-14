@@ -80,7 +80,7 @@ NPM cung cấp 2 chức năng chính bao gồm:
 
 :::
 
-## Git và Github
+## Git và GitHub
 
 ::: tip Git là gì?
 [Git](https://git-scm.com/) là một hệ thống quản lý phiên bản phân tán (Distributed Version Control System – DVCS), nó
